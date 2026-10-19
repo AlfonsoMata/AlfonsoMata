@@ -1,6 +1,6 @@
 # Hola, soy Alfonso
 
-**Analista de Datos y Desarrollador de Software** enfocado en la optimización de pipelines de datos, automatización de procesos y transformación de arquitecturas técnicas en herramientas clave para la toma de decisiones.
+**Analista de Datos** enfocado en la optimización de pipelines de datos, automatización de procesos y transformación de arquitecturas técnicas en herramientas clave para la toma de decisiones.
 
 ## Lo que hago
 
